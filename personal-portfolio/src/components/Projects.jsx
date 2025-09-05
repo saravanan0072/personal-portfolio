@@ -1,32 +1,34 @@
 import { FaArrowUpRightFromSquare, FaGithub } from "react-icons/fa6";
 const projects = [
   {
-    title: "Modern Portfolio",
+    title: "Post Wave",
     description:
-      "Responsive portfolio template built with React and TailwindCSS.",
+      "PostWave is a modern social media frontend built with React and CSS using CRA. Features interactive posts, likes, comments, and responsive user feeds.",
     image:
       "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop",
-    tech: ["React", "TailwindCSS", "Vite"],
-    live: "#",
-    code: "#",
+    tech: ["React", "CSS", "CRA"],
+    live: "https://postwaveweb.netlify.app/",
+    code: "https://github.com/saravanan0072/media-post-app.git",
   },
   {
     title: "Dashboard UI",
-    description: "Admin dashboard with charts, tables, and dark mode.",
+    description:
+      "A fully frontend  Admin dashboard built using React, Vite, and TailwindCSS. Includes a collapsible sidebar, responsive cards, and placeholders for charts and analytics. Designed for scalability and a clean, professional interface.",
     image:
       "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=800&auto=format&fit=crop",
-    tech: ["React", "Chart.js", "TailwindCSS"],
-    live: "#",
-    code: "#",
+    tech: ["React", "Chart.js", "TailwindCSS", "Vite"],
+    live: "https://dashboard-ui-web.netlify.app/",
+    code: "https://github.com/saravanan0072/personal-portfolio/tree/portfolio/Adding-project/dashboard-ui",
   },
   {
     title: "E-commerce Store",
-    description: "Product listings, carts, and checkout flow.",
+    description:
+      "A modern, responsive e-commerce frontend built with React, Vite, and TailwindCSS. Features dynamic product grids, responsive navigation, and interactive cart functionality.",
     image:
       "https://images.unsplash.com/photo-1557821552-17105176677c?q=80&w=800&auto=format&fit=crop",
-    tech: ["React", "Stripe", "TailwindCSS"],
-    live: "#",
-    code: "#",
+    tech: ["React", "Vite", "TailwindCSS"],
+    live: "https://modern-ecommerce-web.netlify.app/",
+    code: "https://github.com/saravanan0072/personal-portfolio/tree/portfolio/Adding-project/ecommerce-project/e-commerce-store",
   },
 ];
 
