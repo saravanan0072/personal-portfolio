@@ -8,14 +8,15 @@ function Hero() {
         <div className="grid items-center gap-10 md:grid-cols-2">
           <div>
             <p className="mb-3 text-sm font-medium tracking-wide text-indigo-600">
-              Frontend Developer
+              Full Stack Developer(MERN)
             </p>
             <h1 className="text-4xl font-extrabold leading-tight tracking-tight sm:text-5xl">
-              Saravanan R — Frontend Developer
+              Saravanan R — Full Stack Developer
             </h1>
             <p className="mt-4 max-w-prose text-slate-600 dark:text-slate-300">
-              I craft fast, accessible, and delightful web experiences. I
-              specialize in React, Vite, and modern UI with TailwindCSS.
+              Passionate Full-Stack Developer building scalable web
+              applications. Creating seamless, interactive experiences from
+              frontend to backend.
             </p>
             <div className="mt-6 flex flex-wrap items-center gap-3">
               <a
